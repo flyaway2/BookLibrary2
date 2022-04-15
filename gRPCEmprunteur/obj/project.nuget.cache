@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYVf/L0FqecgB90ID7GE+SlK3L72zKfGXYNK+jLQ4twZjrQslS2LItQrq3IOJwO8i+GaVKKh5dYuSmk0+cIKpg==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\programming project\\Gestion Biblo\\GestEmpBibliothèque v2\\gRPCEmprunteur\\gRPCEmprunteur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\google.protobuf\\3.20.0\\google.protobuf.3.20.0.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\grpc\\2.45.0\\grpc.2.45.0.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\grpc.core\\2.45.0\\grpc.core.2.45.0.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\grpc.core.api\\2.45.0\\grpc.core.api.2.45.0.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\grpc.net.client\\2.44.0\\grpc.net.client.2.44.0.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\grpc.net.common\\2.44.0\\grpc.net.common.2.44.0.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Calmbatman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
