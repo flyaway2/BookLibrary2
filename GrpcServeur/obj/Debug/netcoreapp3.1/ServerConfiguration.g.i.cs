@@ -77,7 +77,7 @@ namespace GrpcServeur {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GrpcServeur;component/serverconfiguration.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GrpcServeur;V1.0.0.0;component/serverconfiguration.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ServerConfiguration.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
